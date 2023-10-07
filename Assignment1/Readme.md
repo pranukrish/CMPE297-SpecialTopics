@@ -1,7 +1,7 @@
 Implemented the below three deep learning models using Github Copilot Chat
 1. MNIST dataset Classification : https://colab.research.google.com/drive/11ALK7BRHj0gV2IAnfiwFuglDENdpYPok?authuser=1#scrollTo=cp0SFNoooOIi
 2. Text Sentiment Analysis on IMDB reviews dataset : https://colab.research.google.com/drive/1Hvsxn4FLtP5YdBf-Hdhp3CxfdvD-qsHM?authuser=1#scrollTo=N9qy3zpBszv0
-3. Image Classification for MNIST_fashion dataset : 
+3. Image Classification for MNIST_fashion dataset : https://colab.research.google.com/drive/1I3-Qkrwx6EunglTH2ji2twVkTj4qH23o?authuser=1#scrollTo=khSs9GmFtEby
 
 The prompts that I have used are as below
 
@@ -16,4 +16,8 @@ The prompts that I have used are as below
 ![MNIST](https://github.com/pranukrish/CMPE297-SpecialTopics/assets/111817160/290675b7-571c-419e-b403-09c9ca89a74c)
 
 ![SentimentAnalysis_IMDB](https://github.com/pranukrish/CMPE297-SpecialTopics/assets/111817160/15ca6927-1b02-42f3-8c1c-5a8fcbb4de40)
+
+![MNIST_fashion](https://github.com/pranukrish/CMPE297-SpecialTopics/assets/111817160/75df6b38-9178-4d25-97ca-9f25a0f27e8a)
+
+
 
