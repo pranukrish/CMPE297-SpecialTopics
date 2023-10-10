@@ -2,7 +2,7 @@ Part 1 : Best Practices for Prompting
 
 Medium Article : https://medium.com/@pranukrishm/mastering-the-art-of-ai-prompts-for-optimal-outcomes-2e563f62a0e2
 
-Part 2: Streamlit Application for perfect Prompt Generation
+Part 2: Gradio Application for perfect Prompt Generation
 
 Colab Link : https://colab.research.google.com/drive/1iyfGuUNfzbXpmiooKNh40ErLR96B1pex?authuser=1#scrollTo=1TkugNsZJ2Gj
 
