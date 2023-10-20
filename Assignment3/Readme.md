@@ -8,6 +8,8 @@ NanoGPT using Tensorflow : https://colab.research.google.com/drive/1bWfTV-3iEkCQ
 
 NanoGPT using jax : https://colab.research.google.com/drive/12XArcN5y6iVp6E9bp9gBaqFSIVognl-G?authuser=1
 
+Medium Article Link : https://medium.com/@pranukrishm/deep-dive-into-gpt-2-and-its-architecture-implement-your-own-nanogpt-1b71df3b88f9
+
 
 
 
